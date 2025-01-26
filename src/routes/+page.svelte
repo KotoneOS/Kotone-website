@@ -105,7 +105,7 @@
         <img
           fetchpriority="high"
           decoding="async"
-          src="https://framerusercontent.com/images/pS8Ex7cgKSZPQEgBQM8v4FwLw.png"
+          src="https://ik.imagekit.io/i5kg9s8re/pS8Ex7cgKSZPQEgBQM8v4FwLw.png?updatedAt=1737883503451"
           alt="Partners"
           class="card-image"
         />
